@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+docs: update view-results-in-terminal.md (#66)
